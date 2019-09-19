@@ -1,0 +1,114 @@
+body{
+  margin :0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+  color: #ce2e6c;
+
+}
+
+h1{
+  font-size: 60px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+
+font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  font-size: 19px;
+  font-weight: normal;
+  line-height: 2;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.topcontainer{
+  background-color: #f0decb;
+  position: relative;
+padding-top: 100px;
+}
+.middlecontainer{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+
+}
+
+.bottomcontainer{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-cloud{
+position: absolute;
+left:300px;
+bottom :300px;
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.profile{
+  width: 50%;
+  margin : 100px 100px 100px auto;
+  text-align: left;
+  line-height: 2;
+
+
+}
+
+.AboutUs{
+  width: 50%;
+  margin : 100px auto 100px 100px;
+  text-align: left;
+  line-height: 2;
+
+}
+.welcomedog{
+  width: 25%;
+  float : left;
+  margin-right: 20px;
+}
+
+.aboutus{
+  width: 25%;
+  float : right;
+  margin-left: 20px;
+}
+
+hr{
+  width: 5%;
+  border-width: 5px;
+  border-style: dotted none none;
+  border-color: #504658;
+
+}
+.bottom-container{
+  background-color: #504658;
+  margin-bottom: 0px;
+}
+
+.contact{
+  background-color: #504658;
+  color: white;
+  font-size: large;
+  margin :5px;
+  border-radius: 10%;
+  line-height: 50px;
+  width: 10%;
+}
+
+.footer-link{
+  color: #ce2e6c;
+  padding: 10px;
+  position: relative;
+  top: 10px;
+}
